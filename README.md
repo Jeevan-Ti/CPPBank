@@ -1,5 +1,5 @@
 # CPPBank
-##To build and run the application
+## To build and run the application
 1) Ensure cmake is installed and added to your PATH environment
 * check it by opening CommandPrompt and type "cmake --version"
 * else install cmake
