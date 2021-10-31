@@ -10,6 +10,6 @@
 5) executable will be written at "..\Debug\CPPBank.exe"
 6) When running it for the first time, update your db directory
 
-example "D:\\CPPBank\\db"
+example "D:\\\\CPPBank\\\\db"
 
 admin password = "admin"
